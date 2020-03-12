@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElectronicProduct>
+
+    <computer ItemID = "DELL">8000yuan</computer>
+    <computer ItemID = "MAC PRO">16000yuan</computer>
+    <pad ItemID = "ipadmin3">1600yuan</pad>
+   
+</ElectronicProduct>
